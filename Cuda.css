@@ -1,0 +1,418 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+#div1{
+    
+    width: 100%;
+    height: 570px;
+    
+    color: white;
+    background-color: rgb(134,80,156);
+}
+#div1 #logo{
+    float: left;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+#div1 #menu{
+    float: right;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+#menu ul li{
+    display: inline;
+    padding: 20px;
+    color: white;
+
+}
+#menu li:hover{
+    background-color: rgb(100,58,121);
+    border-radius: 5px;
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+header{
+    overflow: hidden;
+}
+#div1-1 h1{
+    margin-top: 10%;
+    text-align: center;
+    
+}
+#div1-1 p{
+    padding: 20px;
+    width: 20%;
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+    background-color: rgb(235,125,76);  
+    border-radius: 3px;
+    
+}
+#div2{
+     width: 100%;
+    height: 630px;
+    
+    color: white;
+    background-color: rgb(24,194,165);
+    margin: 0px;
+}
+
+#div2-1 h1{
+    
+    padding-top: 7%;
+    text-align: center;
+    margin: auto;
+    
+}
+#div2-1 p{
+    padding-top: 5px;
+    text-align: center;
+    
+}
+#div2-1 hr{
+    width: 100px;
+    height: 5px;
+    border: none;
+    background-color: rgb(21,165,140);
+}
+#div2-2{
+    text-align: center;
+}
+#div2-2 ul{
+    display: inline-block;
+    list-style-type: none;
+    padding: 0px 5px;
+    padding-top: 60px;
+    
+}
+#div2-2 ul li{
+    text-align: center;
+}
+#div3{
+    width: 100%;
+    height: 800px;
+    
+    color: black;
+    background-color: rgb(231,242,248);
+    margin: 0px;
+}
+#div3-1 h1{
+    padding-top: 7%;
+    text-align: center;
+    margin: auto;
+}
+#div3-1 hr{
+    width: 100px;
+    height: 5px;
+    border: none;
+    background-color: rgb(200,216,229);
+}
+#div3-1 p{
+    padding-top: 5px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#div3-2{
+    text-align: center;
+}
+#div3-2 ul{
+    display: inline-block;
+    list-style-type: none;
+    padding: 0px 5px;
+    
+    
+}
+#div3-2 h4{
+    margin-top: -15px;
+    font-size: 14px;
+    color: rgb(86,194,232);
+}
+#div3-2 ul li{
+    text-align: center;
+}
+#div3-2 .media-icon li{
+    display: inline;
+    padding: 2px; 
+    
+}
+#div3-2 .media-icon{
+    
+    padding-top: 20px;
+}
+#div4{
+    width: 100%;
+    height: 600px;
+    
+    color: black;
+    background-color: white;
+    margin: 0px;
+}
+#div4-1 h1{
+    padding-top: 7%;
+    text-align: center;
+    margin: auto;
+}
+#div4-1 hr{
+    width: 100px;
+    height: 5px;
+    border: none;
+    background-color: rgb(200,216,229);
+}
+#div4-1 p{
+    padding-top: 5px;
+    text-align: center;
+    padding-bottom: 50px;
+} 
+#div4-2{
+    text-align: center;
+}
+#div4-2 ul{
+    display: inline-block;
+    list-style-type: none;
+    padding-top: 40px;
+    
+}
+#div4-2 ul li{
+    text-align: center;
+    margin: -20px;
+}
+#div4-2 h3{
+    padding-top: 30px;
+}
+#div5{
+    width: 100%;
+    height: 1300px;
+    
+    color: black;
+    background-color: rgb(255,220,152);
+    margin: 0px;
+} 
+#div5-1 h1{
+    padding-top: 7%;
+    text-align: center;
+    margin: auto;
+}
+#div5-1 hr{
+    width: 100px;
+    height: 5px;
+    border: none;
+    background-color: rgb(229,194,126);
+}
+#div5-1 p{
+    padding-top: 5px;
+    text-align: center;
+    
+}
+#div5-1 ul{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+#div5-1 ul li{
+    display: inline;
+    background-color: rgb(235,200,123);
+    padding: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border-radius: 5px;
+}
+#div5-1 li:hover{
+    background-color: white;
+}
+#portfolio1-2{
+    text-align: center;
+}
+#portfolio1-2 ul{
+    display: inline-block;
+    list-style-type: none;
+}
+#portfolio3-4{
+    text-align: center;
+}
+#portfolio3-4 ul{
+    display: inline-block;
+    list-style-type: none;
+}
+#portfolio3-4 p{
+    padding: 20px;
+    width: 20%;
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+    background-color: rgb(24,194,165);  
+    border-radius: 3px;
+    color: white;
+}
+#div6{
+    width: 100%;
+    height: 800px;
+    
+    color: white;
+    background-color: rgb(215,70,129);
+    margin: 0px;
+}
+#div6-1 h1{
+    padding-top: 7%;
+    text-align: center;
+    margin: auto;
+}
+#div6-1 hr{
+    width: 100px;
+    height: 5px;
+    border: none;
+    background-color: rgb(183,59,109);
+}
+#div6-1 p{
+    padding-top: 5px;
+    text-align: center;
+    
+} 
+#ul1-2{
+    text-align: center;
+    
+}
+#ul1-2 ul{
+    display: inline-block;
+    list-style-type: none;
+    text-align: left;
+    padding: 50px 50px ;
+}
+#ul1-2 li img{
+    float: left;
+    
+}
+#ul1-2 li p{
+    float: right;
+    padding-left: 50px;
+    font-style: italic;
+}
+#ul3-4{
+    text-align: center;   
+}
+#ul3-4 ul {
+    display: inline-block;
+    list-style-type: none;
+    text-align:center;
+     padding: 50px 50px;   
+}
+#ul3-4 li img{
+    float: left;
+}
+#ul3-4 li p {
+    float: right;
+    padding-left: 50px;
+    font-style: italic;
+}
+#ul1-2 h3{
+    clear: both;
+    padding-left: 145px;
+}
+#ul1-2 h4{
+    color: rgb(225,220,154);
+    padding-left: 145px;
+    margin-top: -20px;
+}
+#ul3-4 h3{
+    clear: both;
+    padding-left: 145px;
+}
+#ul3-4 h4{
+    color: rgb(225,220,154);
+    padding-left: 145px;
+    margin-top: -20px;
+}
+#div7{
+    width: 100%;
+    height: 800px;    
+    color: white;
+    background-color: rgb(60,84,154);
+    margin: 0px;
+}
+#div7-1 h1{
+    padding-top: 7%;
+    text-align: center;
+    margin: auto;
+}
+#div7-1 hr{
+    width: 100px;
+    height: 5px;
+    border: none;
+    background-color: rgb(38,57,113);
+}
+#div7-1 p{
+    padding-top: 5px;
+    text-align: center;
+}
+#name-email {
+    padding-top: 50px;
+}
+#name-email {
+    text-align: center;
+}
+#name-email li {
+    list-style: none;
+    display: inline;    
+}
+#name-email li input{
+    color: white;
+    background: rgb(39,58,114);
+    border: none;
+    width: 364px;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 5px;    
+}
+
+#text {
+    text-align: center;
+}
+#text p textarea {
+    margin-left:35px;
+    text-align: left;
+    color: white;
+    background: rgb(39,58,114);
+    width: 825px;
+    height: 200px;    
+    border: none;
+    padding-top: 15px;
+    padding-left: 20px;
+    border-radius: 5px;     
+}
+#bouton p {
+    padding: 20px;
+    width: 20%;
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+    background-color: rgb(48,186,232);  
+    border-radius: 3px;
+    color: white;
+}
+#div8{
+    width: 100%;
+    height: 125px;
+    
+    color: white;
+    background-color: rgb(52,75,142);
+    margin: 0px;
+}
+#div8 ul{
+    text-align: center;
+    padding-top: 50px;
+    margin: auto; 
+}
+#div8 ul li{
+    display: inline;
+    padding: 10px;
+    padding-right: 35px;
+    padding-left: 35px;
+    font-size: 20px; 
+}
+#div8 ul li:hover{
+    color: rgb(45,186,231);
+}
+
